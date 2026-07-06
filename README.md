@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Kiran — AI Robotics Engineer, Traveler, Photographer" width="100%" />
+  <img src="./assets/banner.png" alt="Kiran — AI Software Engineer, Traveler, Photographer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Kiran 👋</h1>
@@ -51,14 +51,14 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 <p align="center">
   <img src="./assets/story.png" alt="My Story / Beyond Code travel timeline from Chennai to USA, Canada friends trip, mountains, road trips, and Dubai" width="100%" />
 </p>
-
+<!--
 - **Chennai, India 🇮🇳** — where it all began: curiosity, dreams, and code.
 - **USA 🇺🇸** — new places, new people, and new perspectives.
 - **Canada 🇨🇦** — a **friends trip**, not a residence; snowy days, mountain views, and memories that stayed.
 - **Snow & Mountains 🏔️** — cold air, higher peaks, and peace found.
 - **Road Trips & National Parks 🚐** — long drives, open roads, wild landscapes, and freedom.
 - **Dubai, UAE 🇦🇪** — new chapter, new city, same drive.
-
+-->
 ---
 
 ## 🖥️ Hobby OS / Outside the Terminal
