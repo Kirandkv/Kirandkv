@@ -69,22 +69,6 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 <p align="center">
   <img src="./assets/chai-route-divider.svg" alt="camera to laptop to mountains to routes to chai" width="100%" />
 </p>
-<!--
-<table>
-  <tr>
-    <td>📷 <b>Photography</b><br>capturing moments and chasing light</td>
-    <td>✈️ <b>Travel</b><br>new places, new perspectives</td>
-    <td>🌲 <b>Nature</b><br>national parks, forests, quiet views</td>
-    <td>🏔️ <b>Mountains</b><br>snow, cold air, higher peaks</td>
-  </tr>
-  <tr>
-    <td>🇺🇸🇨🇦 <b>USA & Canada</b><br>roads, friends, and memories</td>
-    <td>💻 <b>Sit • Code • Relax</b><br>solve problems, build ideas, repeat</td>
-    <td>🌅 <b>Quiet Moments</b><br>good views and clean code</td>
-    <td>🍵 <b>Chai & Thoughts</b><br>warm chai, clear mind</td>
-  </tr>
-</table>
-
 ---
 
 ## 🤖 Engineering the Future
