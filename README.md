@@ -145,19 +145,6 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirandkv&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Kiran GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirandkv&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Kiran top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirandkv&theme=tokyonight&hide_border=true" alt="Kiran GitHub streak" />
-</p>
-
----
-
 ## 📌 Current Focus
 
 - Building cool robot projects 🤖
@@ -173,9 +160,10 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 
 - **GitHub:** [github.com/Kirandkv](https://github.com/Kirandkv)
 - **Robotics Org:** [github.com/zenonroboticsco-bot](https://github.com/zenonroboticsco-bot)
+- **LinkedIn:** [https://www.linkedin.com/in/kirandkv/]
 
 <!-- Add these later when ready:
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+
 - Portfolio: https://YOUR-PORTFOLIO.com
 -->
 
