@@ -32,7 +32,7 @@
 
 ## 🧭 About Me
 
-I work at the intersection of **AI, Robotics, Edge AI, Computer Vision, and real-world deployment**.
+I work at the intersection of **AI, Data, Edge AI, Computer Vision, and real-world deployment**.
 
 I enjoy building intelligent systems that can:
 
@@ -110,14 +110,14 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐶 Robot Dog Expression Engine <i>(building next)</i></h3>
+      <h3>🐶 Robot Dog Expression Engine <i>(Private)</i></h3>
       <p>
         Expressive robot-dog emotion system with animated states like listening, happy, curious, sleepy, and excited.
       </p>
       <p><b>Focus:</b> Python, OpenCV, animation states, robot personality, human-robot interaction</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Jetson YOLO Benchmark Dashboard <i>(building next)</i></h3>
+      <h3>📊 Jetson YOLO Benchmark Dashboard <i>(Private)</i></h3>
       <p>
         Edge-AI benchmarking dashboard for FPS, latency, CPU/GPU/RAM usage, and TensorRT model comparison.
       </p>
@@ -160,7 +160,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 
 - **GitHub:** [github.com/Kirandkv](https://github.com/Kirandkv)
 - **Robotics Org:** [github.com/zenonroboticsco-bot](https://github.com/zenonroboticsco-bot)
-- **LinkedIn:** [https://www.linkedin.com/in/kirandkv/]
+- **LinkedIn:** https://www.linkedin.com/in/kirandkv/
 
 <!-- Add these later when ready:
 
