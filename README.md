@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Kiran 👋</h1>
 
-<h3 align="center">AI Robotics Engineer • Traveler • Photographer</h3>
+<h3 align="center">AI Software Engineer • Traveler • Photographer</h3>
 
 <p align="center">
   Originally from <b>Chennai, India</b> 🇮🇳 &nbsp;•&nbsp; Currently in <b>Dubai, UAE</b> 🇦🇪
@@ -59,7 +59,6 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 - **Road Trips & National Parks 🚐** — long drives, open roads, wild landscapes, and freedom.
 - **Dubai, UAE 🇦🇪** — new chapter, new city, same drive.
 -->
----
 
 ## 🖥️ Hobby OS / Outside the Terminal
 
