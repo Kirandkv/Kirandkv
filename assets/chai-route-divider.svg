@@ -1,0 +1,7 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+<style>.t{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill:#39dce2; font-size:22px}.d{stroke:#39dce2; stroke-opacity:.5; stroke-dasharray:8 10; animation: dash 9s linear infinite}@keyframes dash{to{stroke-dashoffset:-220}}</style>
+<rect width="1200" height="90" rx="16" fill="#0d1117"/>
+<path class="d" d="M35 45 C210 0, 390 90, 575 45 S940 10, 1160 45" fill="none" stroke-width="2"/>
+<text x="70" y="53" class="t">camera → laptop → mountains → snow → routes → chai</text>
+<text x="905" y="53" class="t">next trip loading...</text>
+</svg>
