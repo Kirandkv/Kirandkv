@@ -69,7 +69,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 <p align="center">
   <img src="./assets/chai-route-divider.svg" alt="camera to laptop to mountains to routes to chai" width="100%" />
 </p>
-
+<!--
 <table>
   <tr>
     <td>📷 <b>Photography</b><br>capturing moments and chasing light</td>
