@@ -124,6 +124,28 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
       <p><b>Focus:</b> YOLO, TensorRT, FastAPI, Jetson monitoring, real-time metrics</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Karma Restaurant HR <i>(Private, live in production)</i></h3>
+      <p>
+        Full workforce management system for a real Dubai restaurant — Face ID attendance with
+        liveness detection, GPS-geofenced check-in mapping, a 5-stage payroll approval chain, and
+        a UAE EOSB gratuity calculator, all behind one scoped authorization service across 6 roles.
+        38 xUnit tests, including IDOR/authorization and adversarial payroll-lock coverage.
+      </p>
+      <p><b>Focus:</b> ASP.NET Core MVC, EF Core, SQL Server, ASP.NET Core Identity, IIS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 ZS School <i>(Private)</i></h3>
+      <p>
+        Full-stack school management platform — 4 role portals (Management, Teacher, Student,
+        Parent), analytics dashboards, Excel export, and an Android companion app. Shipped with a
+        real release-engineering pipeline: versioned IIS deploys, health-check endpoints,
+        automated route-matrix/dynamic verification testing, and a rollback runbook.
+      </p>
+      <p><b>Focus:</b> ASP.NET Core, EF Core, SQL Server, Azure Identity, Android</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -161,11 +183,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 - **GitHub:** [github.com/Kirandkv](https://github.com/Kirandkv)
 - **Robotics Org:** [github.com/zenonroboticsco-bot](https://github.com/zenonroboticsco-bot)
 - **LinkedIn:** https://www.linkedin.com/in/kirandkv/
-
-<!-- Add these later when ready:
-
-- Portfolio: https://YOUR-PORTFOLIO.com
--->
+- **Portfolio:** https://kiran-portfolio-coral.vercel.app
 
 ---
 
