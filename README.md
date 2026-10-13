@@ -75,6 +75,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 ### Core Stack
 
 <p>
+  <img src="https://img.shields.io/badge/LLM%20%7C%20RAG%20%7C%20Agents-MCP%20%C2%B7%20A2A%20%C2%B7%20LLMOps-6D28D9?style=for-the-badge" alt="LLM, RAG, Agents, MCP, A2A, LLMOps" />
   <img src="https://img.shields.io/badge/AI%20Robotics-Intelligent%20Systems-111827?style=for-the-badge" alt="AI Robotics" />
   <img src="https://img.shields.io/badge/ROS%202-Robot%20Middleware-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-Edge%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
@@ -91,6 +92,30 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Kirandkv/Field">FieldForge AI Suite</a></h3>
+      <p>
+        Five connected AI services built to be measured, not just demoed: grounded document Q&amp;A
+        (BM25 + Qdrant/Ollama hybrid retrieval, cited answers, Recall@5 1.0, 13/13 adversarial
+        guardrail cases), a human-supervised incident-investigation agent, a two-agent A2A/MCP
+        mesh with a real MCP server, and an LLMOps control plane whose quality gate blocks
+        deployment on failing evals. 159 tests in CI, fully offline.
+      </p>
+      <p><b>Focus:</b> RAG, agents, MCP/A2A, LLMOps, evaluation, FastAPI, Qdrant, Ollama</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 AI Invoice-Review Copilot <i>(Private)</i></h3>
+      <p>
+        Multi-agent contract and invoice review platform: hybrid retrieval grounds each LLM
+        explanation in contract clauses, a deterministic evidence verifier rejects findings that
+        cite text missing from the source, and one provider layer serves Anthropic, Azure OpenAI,
+        and local Ollama. Postgres row-level security, 6-role RBAC, and CI gated on adversarial
+        evals and security scans (130/130 end-to-end tests against a live local LLM).
+      </p>
+      <p><b>Focus:</b> RAG, multi-agent LLMs, hallucination guard, FastAPI, PostgreSQL, Docker</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Kirandkv/System_arch">Robin / Zenon Robot System Architecture</a></h3>
@@ -131,7 +156,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
         Full workforce management system for a real Dubai restaurant — Face ID attendance with
         liveness detection, GPS-geofenced check-in mapping, a 5-stage payroll approval chain, and
         a UAE EOSB gratuity calculator, all behind one scoped authorization service across 6 roles.
-        38 xUnit tests, including IDOR/authorization and adversarial payroll-lock coverage.
+        42 xUnit tests, including IDOR/authorization and adversarial payroll-lock coverage.
       </p>
       <p><b>Focus:</b> ASP.NET Core MVC, EF Core, SQL Server, ASP.NET Core Identity, IIS</p>
     </td>
@@ -144,6 +169,25 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
         automated route-matrix/dynamic verification testing, and a rollback runbook.
       </p>
       <p><b>Focus:</b> ASP.NET Core, EF Core, SQL Server, Azure Identity, Android</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Websites I design and run</h3>
+      <p>
+        <a href="https://zenonpetroleum.ae">zenonpetroleum.ae</a> (Zenon Petroleum),
+        <a href="https://zenonlub.com">zenonlub.com</a> (Zenon Lubricants: 59 pages, product
+        catalogue, search, flipbook, contact forms, SEO) and
+        <a href="https://karma-dubai.com">karma-dubai.com</a> (Karma Dubai).
+      </p>
+      <p><b>Focus:</b> WordPress, content structure, SEO, hosting</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 RentFlow <i>(Private)</i></h3>
+      <p>
+        Internal rental property management platform: a Django/PostgreSQL ledger with 144 tests.
+      </p>
+      <p><b>Focus:</b> Django, PostgreSQL, ledger design, testing</p>
     </td>
   </tr>
 </table>
@@ -169,6 +213,7 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 
 ## 📌 Current Focus
 
+- Building grounded, evaluated LLM systems: RAG, agents, MCP/A2A, LLMOps 🧠
 - Building cool robot projects 🤖
 - Exploring Edge AI and Computer Vision
 - Improving robot interaction systems
