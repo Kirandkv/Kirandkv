@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Kiran 👋</h1>
 
-<h3 align="center">AI Software Engineer • Traveler • Photographer</h3>
+<h3 align="center">AI Engineer • Traveler • Photographer</h3>
 
 <p align="center">
   Originally from <b>Chennai, India</b> 🇮🇳 &nbsp;•&nbsp; Currently in <b>Dubai, UAE</b> 🇦🇪
@@ -198,10 +198,6 @@ Outside engineering, I love **travel, photography, snow, mountains, nature, road
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Kirandkv/Spike_detect">Spike_detect</a></h3>
-      <p>Detection-focused public repo from my GitHub profile. I’m cleaning this into a stronger portfolio demo with clearer documentation and visuals.</p>
-    </td>
     <td width="50%" valign="top">
       <h3>⏰ <a href="https://github.com/Kirandkv/alarm-clock-cli">alarm-clock-cli</a></h3>
       <p>Python command-line utility project showing practical scripting, terminal workflows, and lightweight tool building.</p>
